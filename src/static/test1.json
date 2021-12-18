@@ -1,0 +1,110 @@
+{
+  "course_listing": [
+    {
+      "restrictions": "; ; REQUIRED OF ALL NEW STUDENTS. PREREQ: NONE",
+      "section_listing": [
+        {
+          "section": "Se 001",
+          "days": "W",
+          "hours": {
+            "start": "1:30pm",
+            "end": ""
+          },
+          "bldg_and_rm": {
+            "bldg": "BUS",
+            "rm": "S230"
+          },
+          "instructor": "Gusavac",
+          "comments": "9 WKS BEGINNING WEDNESDAY, 9/6/00",
+          "section_note": ""
+        },
+        {
+          "section": "Se 002",
+          "days": "F",
+          "hours": {
+            "start": "11:30am",
+            "end": ""
+          },
+          "bldg_and_rm": {
+            "bldg": "BUS",
+            "rm": "S171"
+          },
+          "instructor": "Gusavac",
+          "comments": "9 WKS BEGINNING FRIDAY, 9/8/00",
+          "section_note": ""
+        }
+      ],
+      "note": "#",
+      "course": "216-088",
+      "title": "NEW STUDENT ORIENTATION",
+      "credits": "0",
+      "level": "U"
+    },
+    {
+      "note": "#",
+      "course": "216-293",
+      "title": "BUSINESS ETHICS",
+      "credits": "3",
+      "level": "U",
+      "restrictions": "; ; PREREQ: NONE",
+      "section_listing": {
+        "bldg_and_rm": {
+          "rm": "S230",
+          "bldg": "BUS"
+        },
+        "instructor": "Silberg",
+        "section_note": "",
+        "section": "Se 001",
+        "days": "R",
+        "hours": {
+          "start": "2:30pm",
+          "end": "5:10pm"
+        }
+      }
+    },
+    {
+      "credits": "2",
+      "level": "G",
+      "restrictions": "; ; PREREQ: GRAD ST; BUS ADM 780(P)",
+      "section_listing": {
+        "section_note": "e",
+        "section": "Se 001",
+        "days": "T",
+        "hours": {
+          "start": "5:30pm",
+          "end": "7:10pm"
+        },
+        "bldg_and_rm": {
+          "rm": "N110",
+          "bldg": "BUS"
+        },
+        "instructor": "Liu"
+      },
+      "note": "#",
+      "course": "216-782",
+      "title": "OPERATIONS MODELING AND SIMULATION"
+    },
+    {
+      "note": "",
+      "course": "360-960",
+      "title": "SEMINAR: ADMINISTRATION/SUPERVISION OF PROGRAMS FOR EXCEPTIONAL INDIVIDUALS",
+      "credits": "3",
+      "level": "G",
+      "restrictions": "; ; PREREQ: GRAD ST; EXCEDUC 300 OR 600",
+      "section_listing": {
+        "section_note": "e",
+        "section": "Se 001",
+        "days": "W",
+        "hours": {
+          "start": "6:30pm",
+          "end": "9:10pm"
+        },
+        "bldg_and_rm": {
+          "bldg": "MER",
+          "rm": "G32"
+        },
+        "instructor": "Luebke"
+      }
+    }
+  ]
+}
